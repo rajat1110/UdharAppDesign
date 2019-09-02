@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">उधार ऐप</string>
+    <string name="namaste_text">नमस्ते! UdharApp में आपका स्वागत है !!</string>
+    <string name="select_language">अपनी भाषा चुनें</string>
+    <string name="hindi_language">अ</string>
+    <string name="english_language">A</string>
+    <string name="hindi_word">हिंदी</string>
+    <string name="english_word">English</string>
+    <string name="spread_love">RV. द्वारा प्यार के साथ बनाया गया App.</string>
+    <string name="slideone">अपने पुराने बाहि-खाटा से छुटकारा पाएं</string>
+    <string name="slidetwo">फ़ोन में सभी लेखांकन रखें</string>
+    <string name="slidethree">समय पर एकत्र करें और तनाव मुक्त हो जाएं</string>
+    <string name="welcomeInUdhar">UdharApp में आपका स्वागत है</string>
+    <string name="sendOtp">हम आपके खाते को प्रमाणित करने के लिए एक OTP भेजेंगे</string>
+    <string name="verifyNumberBtn">मोबाइल वेरिफिकेशन</string>
+    <string name="veryfyText">जारी रखकर, आप हमारी सेवा की शर्तों और गोपनीयता नीति से सहमत होते हैं</string>
+    <string name="mobilenumber">मोबाइल नंबर</string>
+    <string name="viryfynumber">अपना मोबाइल नंबर सत्यापित करें</string>
+    <string name="sendotp">आपके खाते के सत्यापन के लिये OTP भेजा जाएगा</string>
+    <string name="wrongnumberotp">अमान्य मोबाइल नंबर</string>
+    <string name="pleasebepatient">कृपया प्रतीक्षा रखे</string>
+    <string name="otpwillgetsoon">आपका OTP जल्द ही 7285825080 पर डिलीवर हो जाएगा</string>
+
+</resources>

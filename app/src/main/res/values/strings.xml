@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">UdharApp</string>
+    <string name="namaste_text">Namaste! Welcome to UdharApp!!</string>
+    <string name="select_language">Select Your Language!</string>
+    <string name="hindi_language">अ</string>
+    <string name="english_language">A</string>
+    <string name="hindi_word">हिंदी</string>
+    <string name="english_word">English</string>
+    <string name="spread_love">Made With Love By RV.</string>
+    <string name="slideone">Get rid of Your Old Bahi-Khata</string>
+    <string name="slidetwo">Keep All accounting in Phone</string>
+    <string name="slidethree">Collect due on time and get tension free</string>
+    <string name="welcomeInUdhar">Welcome to UdharApp</string>
+    <string name="sendOtp">We will send an OTP to authenticate your account</string>
+    <string name="verifyNumberBtn">Verify Mobile</string>
+    <string name="veryfyText">By continuing, you agree to our Terms of service and Privacy Policy</string>
+    <string name="mobilenumber">Mobile Number</string>
+    <string name="viryfynumber">Verify your mobile number</string>
+    <string name="sendotp">We will send an OTP to verify your account</string>
+    <string name="wrongnumberotp">अमान्य मोबाइल नंबर</string>
+    <string name="pleasebepatient">Please be patient</string>
+    <string name="otpwillgetsoon">Your OTP will be Delivered soon on </string>
+
+</resources>
